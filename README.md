@@ -7,7 +7,7 @@ Feature visualizations are widely used interpretability tools - but can we trust
 
 ![example-figure](./assets/example_figure.png)
 
-For instance, we can adapt a model such that it maintains identical behavior on natural image input (e.g., identical ImageNet accuracy) but its feature visualizations are changed completely (e.g., showing a painting instead of the original feature visualization.
+For instance, from an adversarial perspective we can adapt a model such that it maintains identical behavior on natural image input (e.g., identical ImageNet accuracy) but its feature visualizations are changed completely. In the example here, the feature visualization shows a painting (right) instead of the original feature visualization (left).
 
 ## Citation
 ```
